@@ -1,6 +1,6 @@
 # mini-cheatsheet-typescript
 
-```javascript
+```typescript
 
 let name: string = 'Lesha'
 let num: number = 19
