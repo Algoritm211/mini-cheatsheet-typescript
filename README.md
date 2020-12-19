@@ -65,7 +65,9 @@ const state: InitialStateType = {
     country: 'Ukraine',
     city: 'Kiev'
   },
-  cars: [{mark: 'Rolls-Royce', model: 'Wraith'}]
+  cars: [
+  {mark: 'Rolls-Royce', model: 'Wraith'}
+  ]
 }
 
 
